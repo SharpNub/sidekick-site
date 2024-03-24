@@ -128,3 +128,14 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# from sidebase
+node_modules
+*.log*
+.nuxt
+.nitro
+.cache
+.output
+.env
+dist
+*.sqlite
