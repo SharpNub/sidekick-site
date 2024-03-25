@@ -18,6 +18,8 @@
 
         <div class="card">
           <h1>Buttons</h1>
+          <SidekickButton href="/example" variant="secondary">test1</SidekickButton>
+          <SidekickButton action="console.log('hi')">test2</SidekickButton>
         </div>
       </div>
     </div>
