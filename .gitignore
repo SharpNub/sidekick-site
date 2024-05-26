@@ -129,13 +129,17 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-# from sidebase
+# Nuxt
 node_modules
 *.log*
 .nuxt
 .nitro
 .cache
 .output
+.data
 .env
 dist
 *.sqlite
+
+# Mac
+.DS_Store
